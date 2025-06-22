@@ -1,0 +1,10 @@
+# .gitignore
+
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+#GS node templates
+gs-node-templates/
