@@ -48,7 +48,7 @@ ai-customer-bot/
 ## Environment Variables (.env)
 
 ```env
-GEMINI_API_KEY=your_real_gemini_api_key
+GEMINI_API_KEY=your_gemini_api_key
 REDIS_URL=redis://localhost:6379
 PORT=3000
 ```
