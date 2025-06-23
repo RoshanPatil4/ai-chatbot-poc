@@ -24,7 +24,7 @@ This project is a backend Proof of Concept (POC) for an AI-powered customer supp
 ## Folder Structure
 
 ```
-ai-customer-bot/
+ai-chatbot-poc/
 ├── controllers/
 │   └── chatController.js
 ├── services/
